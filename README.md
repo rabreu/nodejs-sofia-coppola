@@ -2,7 +2,7 @@
 
 Desafio da semana 13 do curso de backend da [{ reprograma }](https://github.com/reprograma).
 
-Esta API manipula todos os trabalhos realizados pela [Sofia Coppola](https://www.imdb.com/name/nm0001068/). 
+Esta API armazena e manipula as informações de todos os trabalhos realizados pela [Sofia Coppola](https://www.imdb.com/name/nm0001068/). 
 
 Todas as informações foram retiradas da [IMDB API](https://imdb-api.com/swagger/index.html).
 
