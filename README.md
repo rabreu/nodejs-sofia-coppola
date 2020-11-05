@@ -29,8 +29,8 @@ Todas as informações foram retiradas da [IMDB API](https://imdb-api.com/swagge
 Método | Caminho | Descrição
 ------ | ------- | ---------:
 GET | /coppola_works | Retorna todos os trabalhos.
-GET | /coppola_works/__:id_ | Retorna um trabalho obtido pela _id_.
+GET | /coppola_works/:_id | Retorna um trabalho obtido pela _id_.
 POST | /coppola_works | Adiciona um trabalho.
-PUT | /coppola_works/__:id_ | Altera um trabalho.
-DELETE | /coppola_works/__:id_| Deleta um trabalho.
+PUT | /coppola_works/:_id | Altera um trabalho.
+DELETE | /coppola_works/:_id | Deleta um trabalho.
 GET | /coppola_works_as_director | Retorna todos os trabalhos realizados pela Sofia Coppola como Diretora.
