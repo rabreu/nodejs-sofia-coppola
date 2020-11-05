@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-sofia-coppola",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rabreu/nodejs-sofia-coppola.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rabreu/nodejs-sofia-coppola/issues"
+  },
+  "homepage": "https://github.com/rabreu/nodejs-sofia-coppola#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.12",
+    "nodemon": "^2.0.6"
+  }
+}
