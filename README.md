@@ -24,7 +24,7 @@ Todas as informações foram retiradas da [IMDB API](https://imdb-api.com/swagge
 
 `npm install && npm start`
 
-### Endpoints
+## Endpoints
 
 Método | Caminho | Descrição
 ------ | ------- | ---------:
